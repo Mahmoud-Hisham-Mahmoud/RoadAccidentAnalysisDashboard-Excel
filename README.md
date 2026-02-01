@@ -2,7 +2,7 @@
 
 This project is an Excel-based Road Accident Dashboard designed to analyze and visualize casualty data across different dimensions such as severity, vehicle type, road type, road surface, area, and light conditions. The dashboard uses Excel features like Pivot Tables, formulas, charts, and slicers to provide clear insights and support data-driven decision-making through an interactive and visually structured layout.
 
-## **Requirements:** ##
+## **Requirements** ##
 
 Client wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements:
 
@@ -20,7 +20,7 @@ Distribution of total casualties by Road Surface.
 
 Relation between Casualties by Area/ Location & by Day/ Night.
 
-## **Steps Covered:** ##
+## **Steps Covered** ##
 
 1. Requirement gathering from client.
 
@@ -34,7 +34,7 @@ Relation between Casualties by Area/ Location & by Day/ Night.
 
 6. Report/ Dashboard creation from start to end.
 
-## **Dashboard:** ##
+## **Dashboard** ##
 
 <img width="1368" height="763" alt="Road Accident Dashboard" src="https://github.com/user-attachments/assets/f0a37246-33de-4140-bf52-6223dd0b6847" />
 
